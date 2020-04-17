@@ -18,5 +18,6 @@ https://medium.com/johenaom/introducci%C3%B3n-al-an%C3%A1lisis-estad%C3%ADstico-
 #### `Regresión multiple`
 
 
-> Elaborado por: Jose O. Henao Monje - Twitter: @johenaom
+> Elaborado por: Jose O. Henao Monje 
+> - Twitter: @johenaom
 > - Blog: https://medium.com/johenaom
