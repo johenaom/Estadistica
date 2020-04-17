@@ -1,4 +1,4 @@
-# Estadistica
+# Curso de Estadistica I
 En este repositorio contiene material de enseñanza, lecturas y tutoriales de estadística.
 El contenido sugerido en esta sección corresponde a:
 #### `Estadística descriptiva`
