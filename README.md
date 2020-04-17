@@ -15,7 +15,7 @@ https://medium.com/johenaom/introducci%C3%B3n-al-an%C3%A1lisis-estad%C3%ADstico-
 #### `Distribuciones discretas de probabilidad`
 https://medium.com/johenaom/introducci%C3%B3n-al-an%C3%A1lisis-estad%C3%ADstico-cap-4-harnett-d-murphy-j-5fc48ce4b341
 
-#### `Regresión multiple`
+
 
 
 > Elaborado por: Jose O. Henao Monje 
