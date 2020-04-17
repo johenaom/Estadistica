@@ -1,5 +1,7 @@
 # Curso de Estadistica I
-En este repositorio contiene material de enseñanza, lecturas y tutoriales de estadística.
+En este repositorio contiene material de enseñanza, lecturas y tutoriales de estadística. Adicionalmente contiene ejercicios resueltos del libro Introducción al análisis estadístico de Harnett & Murphy.
+Cada link compartido corresponde a la ubicación en mi blog personal de los materiales diseñados.
+
 El contenido sugerido en esta sección corresponde a:
 #### `Estadística descriptiva`
 https://medium.com/johenaom/introducci%C3%B3n-al-an%C3%A1lisis-estad%C3%ADstico-cap-1-harnett-d-murphy-j-4f46c83ea695
@@ -17,3 +19,4 @@ https://medium.com/johenaom/introducci%C3%B3n-al-an%C3%A1lisis-estad%C3%ADstico-
 
 
 > Elaborado por: Jose O. Henao Monje - Twitter: @johenaom
+> Blog: https://medium.com/johenaom
